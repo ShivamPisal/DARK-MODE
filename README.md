@@ -1,4 +1,4 @@
-# DARK-MODE
+# [DARK-MODE](https://shivampisal.github.io/DARK-MODE/)
 A simple web page with a dark mode toggle feature using HTML, CSS, and JavaScript.</br> The toggle allows users to switch between light and dark themes for better user experience and accessibility.</br>
 ## Live Preview
 🔗 [Click here to see the preview]((https://shivampisal.github.io/DARK-MODE/))
